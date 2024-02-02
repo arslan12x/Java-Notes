@@ -1,0 +1,45 @@
+
+
+			-----------------------  Inheritance  ----------------------
+			
+	Inheritance in Java is a mechanism in which one object acquires all the properties and behaviors of a 
+	parent object. 
+	
+								Why use inheritance in java ?
+
+		1.For Method Overriding (so runtime polymorphism can be achieved).
+		2.For Code Reusability.
+		
+		
+		                 -------------  EXTEND KEYWORD  -----------
+
+	1. The extends keyword indicates that you are making a new class that derives from an existing class. 
+	2. The meaning of "extends" is to increase the functionality.
+	
+								Types of inheritance in java
+								
+	On the basis of class, there can be three types of inheritance in java: 
+	
+				1.single 
+				2.multilevel 
+				3.hierarchical.		
+				
+	Java does not support multiple inheritance-
+	 
+	When one class inherits multiple classes, it is known as multiple inheritance.
+	
+							------- Single Inheritance Example -------
+							
+	
+	When a class inherits another class, it is known as a single inheritance. 
+
+	
+							-------Multilevel Inheritance Example -------
+							
+									
+	When there is a chain of inheritance, it is known as multilevel inheritance.
+	
+							------- Hierarchical Inheritance Example -------
+							
+	
+	When two or more classes inherits a single class, it is known as hierarchical inheritance.

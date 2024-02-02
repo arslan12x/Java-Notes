@@ -1,0 +1,23 @@
+								
+								Abstract class in Java
+
+	1.	A class which is declared with the abstract keyword is known as an abstract class in Java. 
+	2.	It can have abstract and non-abstract methods (method with the body).
+	
+								Abstraction in Java
+								
+	Abstraction is a process of hiding the implementation details and showing only functionality to the user.
+	
+							Ways to achieve Abstraction
+								
+	There are two ways to achieve abstraction in java
+
+		1.Abstract class (0 to 100%)
+		2.Interface (100%)
+		
+		* Abstract Class- 
+		
+		1.An abstract class must be declared with an abstract keyword.
+		2.It can have abstract and non-abstract methods.
+
+	

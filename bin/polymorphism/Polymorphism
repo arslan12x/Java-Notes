@@ -1,0 +1,15 @@
+							
+							
+							---------- Polymorphism ---------
+
+	1. Polymorphism is considered one of the important features of Object-Oriented Programming. 
+	2. Polymorphism allows us to perform a single action in different ways. 
+	3. In other words, polymorphism allows you to define one interface and have multiple implementations. 
+	4. The word “poly” means many and “morphs” means forms, So it means many forms.
+
+						Types of Java Polymorphism
+						
+	In Java Polymorphism is mainly divided into two types:
+	
+		1.Compile-time Polymorphism
+		2.Runtime Polymorphism 

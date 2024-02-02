@@ -1,0 +1,32 @@
+
+
+										Java Arrays
+
+		An array is a collection of similar type of elements which has contiguous memory location.
+
+		Java array is an object which contains elements of a similar data type.
+
+										 Advantages
+
+		1.Code Optimization: It makes the code optimized, we can retrieve or sort the data efficiently.
+
+		2.Random access: We can get any data located at an index position.
+
+										Disadvantages
+
+		1.Size Limit: We can store only the fixed size of elements in the array.
+
+		2.It doesn't grow its size at runtime.
+
+									Types of Array in java
+
+		There are two types of array.
+
+			1.Single Dimensional Array
+
+			2.Multidimensional Array
+
+									Declaration of Array -
+
+							datatype arrayRefVar = new datatype[size];
+

@@ -1,0 +1,33 @@
+									
+									
+									Wrapper classes in Java
+									
+			The wrapper class in Java provides the mechanism to convert primitive into object and 
+			object into primitive.
+			
+			# autoboxing and unboxing feature convert primitives into objects and objects into primitives 
+			automatically.
+			
+			
+			Primitive Type						Wrapper class
+			
+			boolean								Boolean
+			char								Character
+			byte								Byte
+			short								Short
+			int									Integer
+			long								Long
+			float								Float
+			double								Double
+			
+			Autoboxing -
+			
+			The automatic conversion of primitive data type into its corresponding wrapper class is known
+			as autoboxing.
+			
+			Unboxing -
+			
+			The automatic conversion of wrapper type into its corresponding primitive type is known as unboxing. 
+			It is the reverse process of autoboxing.
+			
+			
